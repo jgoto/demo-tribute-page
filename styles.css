@@ -1,0 +1,47 @@
+body{
+  font-family: Sans-serif;
+  background-color: #eeeedd;
+}
+
+h1, p{
+  text-align: center;
+}
+
+h1{
+  font-size: 2em;
+  margin-bottom: 0;
+}
+
+p{
+  font-size: 0.8em;
+  margin: 0 auto 50px auto;
+  padding: 0 auto;
+}
+
+.img-div{
+  text-align: center;
+  width: 500px;
+  margin: auto;
+}
+
+.img-div img{
+  max-width: 100%;
+  display: block;
+  border-radius: 12px;
+}
+
+figcaption{
+  margin-bottom: 50px;
+}
+
+.tribute-info p{
+  font-size: 1.5em;
+  margin: 0 12px;
+}
+
+li{
+  font-size: 1.2em;
+  margin: 7px 0;
+  padding: 7px 0;
+  list-style-type: none;
+}
