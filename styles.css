@@ -3,6 +3,23 @@ body{
   background-color: #eeeedd;
 }
 
+#content{
+  display: flex;
+}
+
+#heading{
+  display: flex;
+}
+
+#heading h1{
+  width: 66%;
+}
+
+#main{
+  flex-direction: column;
+  width: 75%;
+}
+
 h1, p{
   text-align: center;
 }
